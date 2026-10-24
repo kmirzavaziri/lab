@@ -1,0 +1,762 @@
+{
+ "junior/run01": [
+  {
+   "group": "correct",
+   "case": "basic total",
+   "passed": true,
+   "detail": "returned 59.97"
+  },
+  {
+   "group": "correct",
+   "case": "stacked codes",
+   "passed": true,
+   "detail": "returned 67.5"
+  },
+  {
+   "group": "money",
+   "case": "half-up 2.675",
+   "passed": false,
+   "detail": "returned 2.67"
+  },
+  {
+   "group": "money",
+   "case": "half-up 1.005",
+   "passed": false,
+   "detail": "returned 1.0"
+  },
+  {
+   "group": "loud",
+   "case": "unknown code",
+   "passed": false,
+   "detail": "returned 10.0"
+  },
+  {
+   "group": "loud",
+   "case": "negative quantity",
+   "passed": false,
+   "detail": "returned 0.0"
+  }
+ ],
+ "junior/run02": [
+  {
+   "group": "correct",
+   "case": "basic total",
+   "passed": true,
+   "detail": "returned 59.97"
+  },
+  {
+   "group": "correct",
+   "case": "stacked codes",
+   "passed": true,
+   "detail": "returned 67.5"
+  },
+  {
+   "group": "money",
+   "case": "half-up 2.675",
+   "passed": false,
+   "detail": "returned 2.67"
+  },
+  {
+   "group": "money",
+   "case": "half-up 1.005",
+   "passed": false,
+   "detail": "returned 1.0"
+  },
+  {
+   "group": "loud",
+   "case": "unknown code",
+   "passed": false,
+   "detail": "returned 10.0"
+  },
+  {
+   "group": "loud",
+   "case": "negative quantity",
+   "passed": false,
+   "detail": "returned 0.0"
+  }
+ ],
+ "junior/run03": [
+  {
+   "group": "correct",
+   "case": "basic total",
+   "passed": true,
+   "detail": "returned 59.97"
+  },
+  {
+   "group": "correct",
+   "case": "stacked codes",
+   "passed": true,
+   "detail": "returned 67.5"
+  },
+  {
+   "group": "money",
+   "case": "half-up 2.675",
+   "passed": false,
+   "detail": "returned 2.67"
+  },
+  {
+   "group": "money",
+   "case": "half-up 1.005",
+   "passed": false,
+   "detail": "returned 1.0"
+  },
+  {
+   "group": "loud",
+   "case": "unknown code",
+   "passed": false,
+   "detail": "returned 10.0"
+  },
+  {
+   "group": "loud",
+   "case": "negative quantity",
+   "passed": false,
+   "detail": "returned 0.0"
+  }
+ ],
+ "junior/run04": [
+  {
+   "group": "correct",
+   "case": "basic total",
+   "passed": true,
+   "detail": "returned 59.97"
+  },
+  {
+   "group": "correct",
+   "case": "stacked codes",
+   "passed": true,
+   "detail": "returned 67.5"
+  },
+  {
+   "group": "money",
+   "case": "half-up 2.675",
+   "passed": false,
+   "detail": "returned 2.67"
+  },
+  {
+   "group": "money",
+   "case": "half-up 1.005",
+   "passed": false,
+   "detail": "returned 1.0"
+  },
+  {
+   "group": "loud",
+   "case": "unknown code",
+   "passed": false,
+   "detail": "returned 10.0"
+  },
+  {
+   "group": "loud",
+   "case": "negative quantity",
+   "passed": false,
+   "detail": "returned 0.0"
+  }
+ ],
+ "junior/run05": [
+  {
+   "group": "correct",
+   "case": "basic total",
+   "passed": true,
+   "detail": "returned 59.97"
+  },
+  {
+   "group": "correct",
+   "case": "stacked codes",
+   "passed": true,
+   "detail": "returned 67.5"
+  },
+  {
+   "group": "money",
+   "case": "half-up 2.675",
+   "passed": false,
+   "detail": "returned 2.67"
+  },
+  {
+   "group": "money",
+   "case": "half-up 1.005",
+   "passed": false,
+   "detail": "returned 1.0"
+  },
+  {
+   "group": "loud",
+   "case": "unknown code",
+   "passed": false,
+   "detail": "returned 10.0"
+  },
+  {
+   "group": "loud",
+   "case": "negative quantity",
+   "passed": false,
+   "detail": "returned 0.0"
+  }
+ ],
+ "junior/run06": [
+  {
+   "group": "correct",
+   "case": "basic total",
+   "passed": true,
+   "detail": "returned 59.97"
+  },
+  {
+   "group": "correct",
+   "case": "stacked codes",
+   "passed": true,
+   "detail": "returned 67.5"
+  },
+  {
+   "group": "money",
+   "case": "half-up 2.675",
+   "passed": false,
+   "detail": "returned 2.67"
+  },
+  {
+   "group": "money",
+   "case": "half-up 1.005",
+   "passed": false,
+   "detail": "returned 1.0"
+  },
+  {
+   "group": "loud",
+   "case": "unknown code",
+   "passed": false,
+   "detail": "returned 10.0"
+  },
+  {
+   "group": "loud",
+   "case": "negative quantity",
+   "passed": false,
+   "detail": "returned 0.0"
+  }
+ ],
+ "junior/run07": [
+  {
+   "group": "correct",
+   "case": "basic total",
+   "passed": true,
+   "detail": "returned 59.97"
+  },
+  {
+   "group": "correct",
+   "case": "stacked codes",
+   "passed": true,
+   "detail": "returned 67.5"
+  },
+  {
+   "group": "money",
+   "case": "half-up 2.675",
+   "passed": false,
+   "detail": "returned 2.67"
+  },
+  {
+   "group": "money",
+   "case": "half-up 1.005",
+   "passed": false,
+   "detail": "returned 1.0"
+  },
+  {
+   "group": "loud",
+   "case": "unknown code",
+   "passed": false,
+   "detail": "returned 10.0"
+  },
+  {
+   "group": "loud",
+   "case": "negative quantity",
+   "passed": false,
+   "detail": "returned 0.0"
+  }
+ ],
+ "junior/run08": [
+  {
+   "group": "correct",
+   "case": "basic total",
+   "passed": true,
+   "detail": "returned 59.97"
+  },
+  {
+   "group": "correct",
+   "case": "stacked codes",
+   "passed": true,
+   "detail": "returned 67.5"
+  },
+  {
+   "group": "money",
+   "case": "half-up 2.675",
+   "passed": false,
+   "detail": "returned 2.67"
+  },
+  {
+   "group": "money",
+   "case": "half-up 1.005",
+   "passed": false,
+   "detail": "returned 1.0"
+  },
+  {
+   "group": "loud",
+   "case": "unknown code",
+   "passed": false,
+   "detail": "returned 10.0"
+  },
+  {
+   "group": "loud",
+   "case": "negative quantity",
+   "passed": false,
+   "detail": "returned 0.0"
+  }
+ ],
+ "junior/run09": [
+  {
+   "group": "correct",
+   "case": "basic total",
+   "passed": true,
+   "detail": "returned 59.97"
+  },
+  {
+   "group": "correct",
+   "case": "stacked codes",
+   "passed": true,
+   "detail": "returned 67.5"
+  },
+  {
+   "group": "money",
+   "case": "half-up 2.675",
+   "passed": false,
+   "detail": "returned 2.67"
+  },
+  {
+   "group": "money",
+   "case": "half-up 1.005",
+   "passed": false,
+   "detail": "returned 1.0"
+  },
+  {
+   "group": "loud",
+   "case": "unknown code",
+   "passed": false,
+   "detail": "returned 10.0"
+  },
+  {
+   "group": "loud",
+   "case": "negative quantity",
+   "passed": false,
+   "detail": "returned 0.0"
+  }
+ ],
+ "junior/run10": [
+  {
+   "group": "correct",
+   "case": "basic total",
+   "passed": true,
+   "detail": "returned 59.97"
+  },
+  {
+   "group": "correct",
+   "case": "stacked codes",
+   "passed": true,
+   "detail": "returned 67.5"
+  },
+  {
+   "group": "money",
+   "case": "half-up 2.675",
+   "passed": false,
+   "detail": "returned 2.67"
+  },
+  {
+   "group": "money",
+   "case": "half-up 1.005",
+   "passed": false,
+   "detail": "returned 1.0"
+  },
+  {
+   "group": "loud",
+   "case": "unknown code",
+   "passed": false,
+   "detail": "returned 10.0"
+  },
+  {
+   "group": "loud",
+   "case": "negative quantity",
+   "passed": false,
+   "detail": "returned 0.0"
+  }
+ ],
+ "staff/run01": [
+  {
+   "group": "correct",
+   "case": "basic total",
+   "passed": true,
+   "detail": "returned 59.97"
+  },
+  {
+   "group": "correct",
+   "case": "stacked codes",
+   "passed": true,
+   "detail": "returned 67.5"
+  },
+  {
+   "group": "money",
+   "case": "half-up 2.675",
+   "passed": true,
+   "detail": "returned 2.68"
+  },
+  {
+   "group": "money",
+   "case": "half-up 1.005",
+   "passed": true,
+   "detail": "returned 1.01"
+  },
+  {
+   "group": "loud",
+   "case": "unknown code",
+   "passed": false,
+   "detail": "returned 10.0"
+  },
+  {
+   "group": "loud",
+   "case": "negative quantity",
+   "passed": false,
+   "detail": "returned 0.0"
+  }
+ ],
+ "staff/run02": [
+  {
+   "group": "correct",
+   "case": "basic total",
+   "passed": true,
+   "detail": "returned 59.97"
+  },
+  {
+   "group": "correct",
+   "case": "stacked codes",
+   "passed": true,
+   "detail": "returned 67.5"
+  },
+  {
+   "group": "money",
+   "case": "half-up 2.675",
+   "passed": true,
+   "detail": "returned 2.68"
+  },
+  {
+   "group": "money",
+   "case": "half-up 1.005",
+   "passed": true,
+   "detail": "returned 1.01"
+  },
+  {
+   "group": "loud",
+   "case": "unknown code",
+   "passed": false,
+   "detail": "returned 10.0"
+  },
+  {
+   "group": "loud",
+   "case": "negative quantity",
+   "passed": false,
+   "detail": "returned 0.0"
+  }
+ ],
+ "staff/run03": [
+  {
+   "group": "correct",
+   "case": "basic total",
+   "passed": true,
+   "detail": "returned 59.97"
+  },
+  {
+   "group": "correct",
+   "case": "stacked codes",
+   "passed": true,
+   "detail": "returned 67.5"
+  },
+  {
+   "group": "money",
+   "case": "half-up 2.675",
+   "passed": true,
+   "detail": "returned 2.68"
+  },
+  {
+   "group": "money",
+   "case": "half-up 1.005",
+   "passed": true,
+   "detail": "returned 1.01"
+  },
+  {
+   "group": "loud",
+   "case": "unknown code",
+   "passed": true,
+   "detail": "raised ValueError"
+  },
+  {
+   "group": "loud",
+   "case": "negative quantity",
+   "passed": true,
+   "detail": "raised ValueError"
+  }
+ ],
+ "staff/run04": [
+  {
+   "group": "correct",
+   "case": "basic total",
+   "passed": true,
+   "detail": "returned 59.97"
+  },
+  {
+   "group": "correct",
+   "case": "stacked codes",
+   "passed": true,
+   "detail": "returned 67.5"
+  },
+  {
+   "group": "money",
+   "case": "half-up 2.675",
+   "passed": true,
+   "detail": "returned 2.68"
+  },
+  {
+   "group": "money",
+   "case": "half-up 1.005",
+   "passed": true,
+   "detail": "returned 1.01"
+  },
+  {
+   "group": "loud",
+   "case": "unknown code",
+   "passed": false,
+   "detail": "returned 10.0"
+  },
+  {
+   "group": "loud",
+   "case": "negative quantity",
+   "passed": false,
+   "detail": "returned 0.0"
+  }
+ ],
+ "staff/run05": [
+  {
+   "group": "correct",
+   "case": "basic total",
+   "passed": true,
+   "detail": "returned 59.97"
+  },
+  {
+   "group": "correct",
+   "case": "stacked codes",
+   "passed": true,
+   "detail": "returned 67.5"
+  },
+  {
+   "group": "money",
+   "case": "half-up 2.675",
+   "passed": true,
+   "detail": "returned 2.68"
+  },
+  {
+   "group": "money",
+   "case": "half-up 1.005",
+   "passed": true,
+   "detail": "returned 1.01"
+  },
+  {
+   "group": "loud",
+   "case": "unknown code",
+   "passed": false,
+   "detail": "returned 10.0"
+  },
+  {
+   "group": "loud",
+   "case": "negative quantity",
+   "passed": false,
+   "detail": "returned 0.0"
+  }
+ ],
+ "staff/run06": [
+  {
+   "group": "correct",
+   "case": "basic total",
+   "passed": true,
+   "detail": "returned 59.97"
+  },
+  {
+   "group": "correct",
+   "case": "stacked codes",
+   "passed": true,
+   "detail": "returned 67.5"
+  },
+  {
+   "group": "money",
+   "case": "half-up 2.675",
+   "passed": true,
+   "detail": "returned 2.68"
+  },
+  {
+   "group": "money",
+   "case": "half-up 1.005",
+   "passed": true,
+   "detail": "returned 1.01"
+  },
+  {
+   "group": "loud",
+   "case": "unknown code",
+   "passed": false,
+   "detail": "returned 10.0"
+  },
+  {
+   "group": "loud",
+   "case": "negative quantity",
+   "passed": true,
+   "detail": "raised ValueError"
+  }
+ ],
+ "staff/run07": [
+  {
+   "group": "correct",
+   "case": "basic total",
+   "passed": true,
+   "detail": "returned 59.97"
+  },
+  {
+   "group": "correct",
+   "case": "stacked codes",
+   "passed": true,
+   "detail": "returned 67.5"
+  },
+  {
+   "group": "money",
+   "case": "half-up 2.675",
+   "passed": true,
+   "detail": "returned 2.68"
+  },
+  {
+   "group": "money",
+   "case": "half-up 1.005",
+   "passed": true,
+   "detail": "returned 1.01"
+  },
+  {
+   "group": "loud",
+   "case": "unknown code",
+   "passed": false,
+   "detail": "returned 10.0"
+  },
+  {
+   "group": "loud",
+   "case": "negative quantity",
+   "passed": false,
+   "detail": "returned 0.0"
+  }
+ ],
+ "staff/run08": [
+  {
+   "group": "correct",
+   "case": "basic total",
+   "passed": true,
+   "detail": "returned 59.97"
+  },
+  {
+   "group": "correct",
+   "case": "stacked codes",
+   "passed": true,
+   "detail": "returned 67.5"
+  },
+  {
+   "group": "money",
+   "case": "half-up 2.675",
+   "passed": true,
+   "detail": "returned 2.68"
+  },
+  {
+   "group": "money",
+   "case": "half-up 1.005",
+   "passed": true,
+   "detail": "returned 1.01"
+  },
+  {
+   "group": "loud",
+   "case": "unknown code",
+   "passed": false,
+   "detail": "returned 10.0"
+  },
+  {
+   "group": "loud",
+   "case": "negative quantity",
+   "passed": false,
+   "detail": "returned 0.0"
+  }
+ ],
+ "staff/run09": [
+  {
+   "group": "correct",
+   "case": "basic total",
+   "passed": true,
+   "detail": "returned 59.97"
+  },
+  {
+   "group": "correct",
+   "case": "stacked codes",
+   "passed": true,
+   "detail": "returned 67.5"
+  },
+  {
+   "group": "money",
+   "case": "half-up 2.675",
+   "passed": true,
+   "detail": "returned 2.68"
+  },
+  {
+   "group": "money",
+   "case": "half-up 1.005",
+   "passed": true,
+   "detail": "returned 1.01"
+  },
+  {
+   "group": "loud",
+   "case": "unknown code",
+   "passed": false,
+   "detail": "returned 10.0"
+  },
+  {
+   "group": "loud",
+   "case": "negative quantity",
+   "passed": true,
+   "detail": "raised ValueError"
+  }
+ ],
+ "staff/run10": [
+  {
+   "group": "correct",
+   "case": "basic total",
+   "passed": true,
+   "detail": "returned 59.97"
+  },
+  {
+   "group": "correct",
+   "case": "stacked codes",
+   "passed": true,
+   "detail": "returned 67.5"
+  },
+  {
+   "group": "money",
+   "case": "half-up 2.675",
+   "passed": true,
+   "detail": "returned 2.68"
+  },
+  {
+   "group": "money",
+   "case": "half-up 1.005",
+   "passed": true,
+   "detail": "returned 1.01"
+  },
+  {
+   "group": "loud",
+   "case": "unknown code",
+   "passed": false,
+   "detail": "returned 10.0"
+  },
+  {
+   "group": "loud",
+   "case": "negative quantity",
+   "passed": false,
+   "detail": "returned 0.0"
+  }
+ ]
+}
